@@ -6,6 +6,15 @@
 
 <br>
 
+## Tehnologii folosite
+- Python
+- PyCharm
+- Git
+- Git Bash
+- GitHub
+
+<br>
+
 ## Task List
 
 """
